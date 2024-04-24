@@ -32,7 +32,6 @@ RegisterNumber:
 ```
 
 ## Output:
-![lu decomposition]()
 
 
 ## Result:
